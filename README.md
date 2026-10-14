@@ -1,2 +1,2 @@
 # sabeel
-a roadmap for students in tech / engineering
+a tool to help students learn & retain info on any topic
